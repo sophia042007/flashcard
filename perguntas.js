@@ -17,7 +17,22 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Qual a capital do Brasil?',
+    'A capital da França é Braília'
+    
+    )
+
+    criaCartao(
+    'Geografia',
+    'Qual a montanha mais alta do mundo?',
+    'A montanha mais alta do mundo é o Monte Everest'
 )
+
+criaCartao(
+    'Ciências',
+    'Quem inventou a lâmpada?',
+    'Quem inventou a lâmpada foi Thomas Edison'
+
+
+    
