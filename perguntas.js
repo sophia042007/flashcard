@@ -33,6 +33,7 @@ criaCartao(
     'Ciências',
     'Quem inventou a lâmpada?',
     'Quem inventou a lâmpada foi Thomas Edison'
+)
 
 
     
